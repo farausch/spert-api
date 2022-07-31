@@ -8,3 +8,7 @@ This repository contains a Dockerfile for deploying the service. A ready-to-use 
 
 ## Example Usage
 `curl -G "https://spert-api-mtvfo2xgia-ey.a.run.app/fs-predict" --data-urlencode "text=Das Umlaufvermögen beläuft sich zum Ende des Geschäftsjahres auf TEUR 10000, wovon TEUR 255 auf Guthaben bei Kreditinstituten entfallen."`
+
+## Acknowledgements
+
+This repository is a fork of the original [SpERT repository](https://github.com/lavis-nlp/spert) extending it by a REST service.
